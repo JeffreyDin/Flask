@@ -1,0 +1,27 @@
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+venv
+.git
+.github
+.idea
+app/__pycache__/
+app/static/
+app/templates/
+db_repository
+tmp
+app.db
+*.pyc
+
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+
+# My configurations:
+db.ini
+deploy_key_rsa

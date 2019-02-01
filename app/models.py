@@ -1,0 +1,19 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+# @Time    : 2019/1/30 17:39
+# @Author  : Jianfeng Ding
+# @Site    : 
+# @File    : models.py
+# @Software: PyCharm
+
+from app import db
+
+
+class User(db.Model):
+    id = db.Column(db.Integer, primary_key=True)
+    username = db.Column(db.String(64), index=True, unique=True)
+    email = db.Column(db.String(120), index=True, unique=True)
+
+    def __repr__(self):
+        return '<User %r>' % (self.
+                              username)

@@ -6,6 +6,7 @@ venv
 .git
 .github
 .idea
+__pycache__
 app/__pycache__/
 app/static/
 app/templates/

@@ -7,4 +7,3 @@
 # @Software: PyCharm
 
 function set_openid(openid, pr)
-ttttttttK

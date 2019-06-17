@@ -1,11 +1,15 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# @Time    : 2019/1/29 11:11
-# @Author  : Jianfeng Ding
-# @Site    : 
-# @File    : config.py
-# @Software: PyCharm
-
+"""
+@author: gxs
+@license: (C) Copyright 2016-2019, Light2Cloud (Beijing) Web Service Co., LTD
+@contact: dingjianfeng@light2cloud.com
+@software: L2CloudCMP
+@file: test.py
+@ide: PyCharm
+@time: 2019/6/17 8:43
+@desc:
+"""
 
 import os
 

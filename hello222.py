@@ -6,5 +6,4 @@
 # @File    : hello222.py
 # @Software: PyCharm
 
-
-adsfadfafdafdaf
+function set_openid(openid, pr)
